@@ -1,7 +1,7 @@
 {
-  "name": "sakura",
+  "name": "spy",
   "version": "7.0.0",
-  "description": "Sakura-Bot, Multi-Conexões, funcionamento mais rápido, e hospedado na heroku ou em outro servidor o seu celular funcionará sem internet.",
+  "description": "Spy-Bot, Multi-Conexões, funcionamento mais rápido, e hospedado no servidor com meu mestre 554884702848",
   "main": "index.js",
   "scripts": {
     "test": "node connect.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Scheyot2/sakura-botv6.git"
+    "url": "https://github.com/CrisAmorim27/bot6.9.5.git"
   },
-  "author": "M.Scheyot",
+  "author": "M.Spy",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Scheyot2/sakura-botv6/issues"
   },
-  "homepage": "https://github.com/Scheyot2/sakura-botv6#readme",
+  "homepage": "https://github.com/CrisAmorim27/bot6.9.5#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^5.5.0",
     "@adiwajshing/keyed-db": "^0.2.4",
