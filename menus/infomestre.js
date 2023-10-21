@@ -4,9 +4,9 @@ const infomestre = (prefix, numerodn, NomeDoBot, hora, tempo, pushname) => {
 //${numerodn} nem ${NomeDoBot} nem ${prefix} só se quiser apagar completo, não coloque nada ${dentro assim} ISSO SÃO DEFINIÇÕES QUE ESTÁ PUXANDO DO settings.json, da pasta dono, só pode altera a base de tudo, menos as , só se quiser apagar a definição completa.
 
 return`
-╭═• ೋ⌑๑❤️‍🔥๑⌑ೋ •═╮ 
+╭═• ೋ⌑๑๑⌑ೋ •═╮ 
 ╎☀️∆𝗜𝗡𝗙𝗢𝗠𝗘𝗦𝗧𝗥𝗘∆☀️
-╰═• ೋ⌑๑❤️‍🔥๑⌑ೋ •═╯
+╰═• ೋ⌑๑๑⌑ೋ •═╯
 ╎
 ｡･:*:･ﾟ★,｡･:*:･ﾟ☆
 Oiê ${tempo} ฅ^•ﻌ•^ฅ
