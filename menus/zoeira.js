@@ -11,7 +11,7 @@ Mas aproveitando que ta aqui salva o contato do bot na sua agenda, isso ajuda a 
 
 
 
-E caso queira alugar fale com meu mestre 554884702848 
+E caso queira alugar fale com meu mestre 554884702848 , infelizmente o número pode vim a cair, pode tentar chamar aqui wa.me/554888767821 nesse caso!
 `
 }
 
